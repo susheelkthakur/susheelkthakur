@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @susheelkthakur
+- 👋 Hi, I’m susheelkthakur
 - 👀 I’m interested in data science. business analytics, Machine learning, artifical intelligence, deep leaning, big data, AWS.
 - 🌱 I’m currently learning computer vision and creating repositories for variuou ML AI algorithms.
 - 💞️ 
